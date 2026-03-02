@@ -1,5 +1,5 @@
 📚 Task BookList
-A simple Flutter app that displays a list of Indian books with their titles and authors.
+A simple Flutter app that displays a list of books with their titles and authors.
 
 ✨ Features
 View list of books with title and author
