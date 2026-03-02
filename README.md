@@ -10,6 +10,8 @@ Info icon shows total book count
 
 Clean and simple Material Design UI
 
-📸 Screenshots
-Home Screen	Info Dialog
-https://screenshots/home.png	https://screenshots/info.png
+## 📸 Screenshots
+
+| Home Screen | Info Dialog |
+|-------------|-------------|
+| <img src="https://github.com/sanjai45-m/book_list_app/blob/main/screenshots/app_screenshot.jpg?raw=true" width="250"> | <img src="https://github.com/sanjai45-m/book_list_app/blob/main/screenshots/code_with_screenshot.png?raw=true" width="250"> |
