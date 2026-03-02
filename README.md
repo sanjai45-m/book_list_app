@@ -1,17 +1,15 @@
-# task_booklist
+📚 Task BookList
+A simple Flutter app that displays a list of Indian books with their titles and authors.
 
-A new Flutter project.
+✨ Features
+View list of books with title and author
 
-## Getting Started
+Tap the + button to add "The God of Small Things" by Arundhati Roy
 
-This project is a starting point for a Flutter application.
+Info icon shows total book count
 
-A few resources to get you started if this is your first Flutter project:
+Clean and simple Material Design UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📸 Screenshots
+Home Screen	Info Dialog
+https://screenshots/home.png	https://screenshots/info.png
